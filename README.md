@@ -1,6 +1,5 @@
 # Awesome-text-to-3D
 
-
 * [Zero-shot text-guided object generation with dream fields](https://openaccess.thecvf.com/content/CVPR2022/papers/Jain_Zero-Shot_Text-Guided_Object_Generation_With_Dream_Fields_CVPR_2022_paper.pdf)
 * [DREAMFUSION: TEXT-TO-3D USING 2D DIFFUSION](https://arxiv.org/pdf/2209.14988.pdf)
 * [Magic3D: High-Resolution Text-to-3D Content Creation](https://arxiv.org/pdf/2211.10440.pdf)
@@ -30,3 +29,12 @@
 * [Clip-mesh: Generating textured meshes from text using pretrained image-text models~\cite{mohammad2022clip}](https://dl.acm.org/doi/fullHtml/10.1145/3550469.3555392)
 * [Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures~\cite{metzer2022latent}](https://arxiv.org/pdf/2211.07600.pdf)
 * [Text2mesh: Text-driven neural stylization for meshes~\cite{michel2022text2mesh}](http://openaccess.thecvf.com/content/CVPR2022/papers/Michel_Text2Mesh_Text-Driven_Neural_Stylization_for_Meshes_CVPR_2022_paper.pdf)
+
+## text-to-avatar
+* [DreamAvatar: Text-and-Shape Guided 3D Human Avatar Generation via Diffusion Models](https://arxiv.org/pdf/2304.00916.pdf)
+* [DreamFace: Progressive Generation of Animatable 3D Faces under Text Guidance](https://arxiv.org/pdf/2304.03117)
+* [AvatarCraft: Transforming Text into Neural Human Avatars with Parameterized Shape and Pose Control](https://arxiv.org/pdf/2303.17606)
+
+## text-to-texture
+* [Texture: Text-guided texturing of 3d shapes~\cite{richardson2023texture}](https://arxiv.org/pdf/2302.01721)
+
