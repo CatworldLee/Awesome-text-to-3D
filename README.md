@@ -2,6 +2,8 @@
 
 ## text-to-shape
 
+![dreamfusion](https://github.com/CatworldLee/Awesome-text-to-3D/blob/main/fig/dreamfusion.png)
+
 * [Zero-shot text-guided object generation with dream fields](https://openaccess.thecvf.com/content/CVPR2022/papers/Jain_Zero-Shot_Text-Guided_Object_Generation_With_Dream_Fields_CVPR_2022_paper.pdf)
 * [DREAMFUSION: TEXT-TO-3D USING 2D DIFFUSION](https://arxiv.org/pdf/2209.14988.pdf)
 * [Magic3D: High-Resolution Text-to-3D Content Creation](https://arxiv.org/pdf/2211.10440.pdf)
@@ -33,10 +35,14 @@
 * [Text2mesh: Text-driven neural stylization for meshes](http://openaccess.thecvf.com/content/CVPR2022/papers/Michel_Text2Mesh_Text-Driven_Neural_Stylization_for_Meshes_CVPR_2022_paper.pdf)
 * [Tango: Text-driven photorealistic and robust 3d stylization via lighting decomposition](https://arxiv.org/pdf/2210.11277)
 
+![dreamavatar](https://github.com/CatworldLee/Awesome-text-to-3D/blob/main/fig/dreamavatar.png)
+
 ## text-to-avatar
 * [DreamAvatar: Text-and-Shape Guided 3D Human Avatar Generation via Diffusion Models](https://arxiv.org/pdf/2304.00916.pdf)
 * [DreamFace: Progressive Generation of Animatable 3D Faces under Text Guidance](https://arxiv.org/pdf/2304.03117)
 * [AvatarCraft: Transforming Text into Neural Human Avatars with Parameterized Shape and Pose Control](https://arxiv.org/pdf/2303.17606)
+
+![texture](https://github.com/CatworldLee/Awesome-text-to-3D/blob/main/fig/texture.png)
 
 ## text-to-texture
 * [Texture: Text-guided texturing of 3d shapes](https://arxiv.org/pdf/2302.01721)
@@ -44,12 +50,16 @@
 * [Tango: Text-driven photorealistic and robust 3d stylization via lighting decomposition](https://arxiv.org/pdf/2210.11277)
 * [Text2Tex: Text-driven Texture Synthesis via Diffusion Models](https://arxiv.org/pdf/2303.11396)
 
+![scene](https://github.com/CatworldLee/Awesome-text-to-3D/blob/main/fig/scene.png)
+
 ## text-to-scene
 * [Set-the-Scene: Global-Local Training for Generating Controllable NeRF Scenes](https://arxiv.org/pdf/2303.13450)
 * [SceneScape: Text-Driven Consistent Scene Generation](https://arxiv.org/pdf/2303.10735)
 * [Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models](https://arxiv.org/pdf/2303.11989)
 * [Text-to-4d dynamic scene generation](https://arxiv.org/pdf/2301.11280.pdf?trk=public_post_comment-text)
 * [Compositional 3D Scene Generation using Locally Conditioned Diffusion](https://arxiv.org/pdf/2303.12218.pdf)
+
+![instruct](https://github.com/CatworldLee/Awesome-text-to-3D/blob/main/fig/instruct.png)
 
 ## text-guided shape tranformation
 
