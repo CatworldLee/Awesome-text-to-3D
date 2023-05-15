@@ -1,5 +1,7 @@
 # Awesome-text-to-3D
 
+## text-to-shape
+
 * [Zero-shot text-guided object generation with dream fields](https://openaccess.thecvf.com/content/CVPR2022/papers/Jain_Zero-Shot_Text-Guided_Object_Generation_With_Dream_Fields_CVPR_2022_paper.pdf)
 * [DREAMFUSION: TEXT-TO-3D USING 2D DIFFUSION](https://arxiv.org/pdf/2209.14988.pdf)
 * [Magic3D: High-Resolution Text-to-3D Content Creation](https://arxiv.org/pdf/2211.10440.pdf)
