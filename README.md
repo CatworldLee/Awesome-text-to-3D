@@ -49,5 +49,12 @@
 * [Text-to-4d dynamic scene generation](https://arxiv.org/pdf/2301.11280.pdf?trk=public_post_comment-text)
 * [Compositional 3D Scene Generation using Locally Conditioned Diffusion](https://arxiv.org/pdf/2303.12218.pdf)
 
+## text-guided shape tranformation
+
+* [Instruct 3D-to-3D: Text Instruction Guided 3D-to-3D conversion](https://arxiv.org/pdf/2304.00916.pdf)
+* [Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions](https://arxiv.org/pdf/2303.12789.pdf?trk=public_post_comment-text)
+* [SKED: Sketch-guided Text-based 3D Editing](https://arxiv.org/pdf/2303.10735)
+* [TextDeformer: Geometry Manipulation using Text Guidance](https://arxiv.org/pdf/2304.13348)
+
 
 
