@@ -39,7 +39,7 @@
 * [AvatarCraft: Transforming Text into Neural Human Avatars with Parameterized Shape and Pose Control](https://arxiv.org/pdf/2303.17606)
 
 ## text-to-texture
-* [Texture: Text-guided texturing of 3d shapes~\cite{richardson2023texture}](https://arxiv.org/pdf/2302.01721)
+* [Texture: Text-guided texturing of 3d shapes](https://arxiv.org/pdf/2302.01721)
 * [Fantasia3D: Disentangling Geometry and Appearance for High-quality Text-to-3D Content Creation](https://arxiv.org/pdf/2303.13873)
 * [Tango: Text-driven photorealistic and robust 3d stylization via lighting decomposition](https://arxiv.org/pdf/2210.11277)
 * [Text2Tex: Text-driven Texture Synthesis via Diffusion Models](https://arxiv.org/pdf/2303.11396)
